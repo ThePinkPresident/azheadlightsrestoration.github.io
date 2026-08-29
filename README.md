@@ -31,8 +31,8 @@ To use the Minimal theme:
 Minimal will respect the following variables, if set in your site's `_config.yml`:
 
 ```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [A-Z HEADLIGHT RESTORATION]
+description: [Specializes in restoring cloudy, yellowed, and oxidized headlights. We offer convenient mobile service at your home or workplace, helping improve visibility and give your vehicle a cleaner look. Contact us to schedule an appointment.]
 ```
 
 Additionally, you may choose to set the following optional variables:
